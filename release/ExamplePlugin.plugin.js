@@ -1,5 +1,5 @@
 /**
- * @name ExamplePlugintest
+ * @name ExamplePlugint
  * @invite undefined
  * @authorLink undefined
  * @donate undefined
