@@ -1,5 +1,5 @@
 /**
- * @name ZeresPluginLibrary test
+ * @name ZeresPluginLibrary test test
  * @invite TyFxKer
  * @authorLink https://twitter.com/ZackRauen
  * @donate https://paypal.me/ZackRauen
